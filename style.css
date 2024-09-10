@@ -7,13 +7,13 @@ body{background-color:rgb(218, 240, 246);
 
 }
 p1{
-color:rgb(85, 51, 20);font-weight: 200; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: large;
+color:rgb(85, 51, 20);font-weight: 200; font-family: Cambria, Cochin, Georgia, Times, 'FreeMono', monospace; font-size: large;
 
 
 
 }
 p{
-    color:rgb(136, 106, 57);font-weight: 300; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(136, 106, 57);font-weight: 300; font-family: Cambria, Cochin, Georgia, Times, 'FreeMono',  monospace;
 
 
 
