@@ -4,16 +4,17 @@ body{
 p1{
     color:rgb(92, 72, 39);
     font-weight: 200; 
-    font-family: Courier, 'Lucida Console', monospace;
+    font-family: Fantasy, 'Papyrus', monospace;
 }
 p{
     color:rgb(92, 72, 39);
     font-weight: 300; 
-    font-family: Courier, 'Lucida Console', monospace;
+    font-family: Fantasy, 'Papyrus', monospace;
 }
 
 div{
     max-width: 600px;
 }
+
 
 
