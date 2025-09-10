@@ -8,7 +8,7 @@ body{
   background: linear-gradient(to bottom right, #FF99CC 0%, #663399 51%, #8D8DD7 85%);
   margin:auto;
    font-family:  'Verdana', monospace;
-   text-align: center;
+   text-align: justify;
    
 }
 
@@ -24,6 +24,7 @@ p{
 div{
     max-width: 600px;
 }
+
 
 
 
