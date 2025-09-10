@@ -1,15 +1,24 @@
+
+
+
+
 body{
-    background-color:rgb(204, 153, 102);
+	width: 85vw;
+	height: 3000px; /* Used to enable scrolling */
+  background: linear-gradient(to bottom right, #FF99CC 0%, #663399 51%, #8D8DD7 85%);
+  margin:auto;
+   font-family:  'Verdana', monospace;
+   text-align: center;
+   
 }
-p1{
-    color:rgb(92, 72, 39);
-    font-weight: 200; 
-    font-family: Fantasy, 'Papyrus', monospace;
+
+p{  
+	
+   
+		font-size: 1.2em;
+		
 }
-p{
-    color:rgb(92, 72, 39);
-    font-weight: 300; 
-    font-family: Fantasy, 'Papyrus', monospace;
+
 }
 
 div{
